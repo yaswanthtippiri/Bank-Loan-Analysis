@@ -30,7 +30,16 @@ The interactive dashboard contains three pages:
 1. **Summary:** Overall loan performance and key KPIs.
 2. **Overview:** Detailed analysis of loan trends and categories.
 3. **Details:** Detailed loan application information.
+### 📸 Dashboard Screenshots
 
+#### 1. Summary Dashboard
+![Summary Dashboard](Dashboard-Screenshots/Summary.png)
+
+#### 2. Overview Dashboard
+![Overview Dashboard](Dashboard-Screenshots/Overview.png)
+
+#### 3. Details Dashboard
+![Details Dashboard](Dashboard-Screenshots/Details.png)
 ## 📁 Repository Structure
 ```text
 Bank-Loan-Analysis/
