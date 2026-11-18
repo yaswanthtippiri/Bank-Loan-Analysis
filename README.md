@@ -32,15 +32,27 @@ The interactive dashboard contains three pages:
 3. **Details:** Detailed loan application information.
 
 ## 📁 Repository Structure
-
 ```text
 Bank-Loan-Analysis/
 │
+├── Dataset/
+│   ├── financial_loan.csv
+│   └── README.md
+│
+├── Python/
+│   ├── bank_loan_analysis.ipynb
+│   └── README.md
+│
 ├── SQL/
-│   └── bank_loan_analysis.sql
+│   ├── bank_loan_analysis.sql
+│   └── README.md
+│
+├── Dashboard-Screenshots/
+│   ├── Summary.png
+│   ├── Overview.png
+│   └── Details.png
 │
 └── README.md
 ```
-
 ## 💡 Project Outcome
 This project demonstrates practical skills in SQL-based data analysis, Python analytics, financial KPI reporting, and Power BI dashboard development to support data-driven lending decisions.
