@@ -56,10 +56,15 @@ Bank-Loan-Analysis/
 │   ├── bank_loan_analysis.sql
 │   └── README.md
 │
+├── Dashboard/
+│   ├── Bank-Loan-Analysis.pbix
+│   └── README.md
+│
 ├── Dashboard-Screenshots/
 │   ├── Summary.png
 │   ├── Overview.png
-│   └── Details.png
+│   ├── Details.png
+│   └── README.md
 │
 └── README.md
 ```
